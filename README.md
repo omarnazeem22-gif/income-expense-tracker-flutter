@@ -26,9 +26,6 @@ A simple and elegant Flutter app to track income and expenses locally. Built wit
 ---
 
 ## 📸 Screenshots
-
-*(Add screenshots here if available — place them in `assets/screenshots/` and link them like below)*
-
-```md
-![Home Screen](assets/screenshots/home.png)
-![Add Transaction](assets/screenshots/add_transaction.png)
+![1](https://github.com/user-attachments/assets/443c1d65-6b5d-4bc8-8c40-b82a2cd7185a)
+![2](https://github.com/user-attachments/assets/ef171972-f05d-4937-9a1c-3c7698e19385)
+![3](https://github.com/user-attachments/assets/9c163d23-8c9f-4d72-ad78-776abf43f3f7)
